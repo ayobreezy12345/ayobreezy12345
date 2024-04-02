@@ -1,5 +1,6 @@
 # About Me
-I'm currently in my final semester as a IT student.
+A soon‑to‑be graduate of the Bachelor of Information Technology from Curtin University, driven by a passion to
+leverage technology for positive change, and utilising knowledge to foster a more secure technology landscape.
 
 ## Languages
 
