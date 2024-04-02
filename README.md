@@ -1,4 +1,4 @@
-#About Me
+# About Me
 I'm currently in my final semester as a IT student.
 
 ## Languages
